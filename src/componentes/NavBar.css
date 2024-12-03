@@ -1,0 +1,24 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    
+}
+#logo{
+    width: 4%;
+
+}
+
+#links-container{
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+}
+#cart-container{
+    margin: 0;
+    display: flex;
+    justify-content: end;
+    width: 10%;
+}
+#cart{
+    width: 45%;
+}
